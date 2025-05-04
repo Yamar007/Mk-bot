@@ -16,40 +16,40 @@ require("./all/module.js")
 
 //========== Setting Owner ==========//
 
-global.owner = "263780166288" //replace with your phone number
-global.namaowner = "ᴍᴀʟᴠɪɴ ᴋɪɴɢ" //replace with your name
+global.owner = "237672114754" //replace with your phone number
+global.namaowner = "Yusuf" //replace with your name
 
 
 //======== Setting Bot & Link ========//
-global.namabot = "ᴍᴋ-𝚋𝚘𝚝" 
+global.namabot = "Yusuf-𝚋𝚘𝚝" 
 global.version = "v3.5.0"
-global.foother = "ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
-global.linkgc = 'https://youtube.com/@malvintech2'
-global.linksaluran = "https://youtube.com/@malvintech2"
-global.linkyt = 'https://youtube.com/@malvintech2'
-global.packname = "ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴋ-ʙᴏᴛ"
-global.author = "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+global.foother = "ᴄʀᴇᴀᴛᴇᴅ ʙʏ Yusuf"
+global.linkgc = ''
+global.linksaluran = ""
+global.linkyt = ''
+global.packname = "ᴄʀᴇᴀᴛᴇᴅ ʙʏ Yusuf"
+global.author = "Yusuf"
 
 
 //========== Setting Event ==========//
 
 // true or false as you like
 
-global.welcome = true
+global.welcome = false
 global.autoread = false
 global.anticall = false
-global.autoreadsw = true // Auto-read statuses
-global.autolikesw = true // Auto-like statuses
+global.autoreadsw = false // Auto-read statuses
+global.autolikesw = false // Auto-like statuses
 global.owneroff = false
 global.antibug = false
 
-global.caption = '> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ'
+global.caption = '> ᴘᴏᴡᴇʀᴇᴅ ʙʏ Yusuf'
 
 
 //========= Setting Message =========//
 global.msg = {
     "error": "🤖 *Oopsie!* Something went wrong. Maybe try again? Or blame the developer. Your call!",
-    "done": "✅ *Mission Accomplished!* All systems go, Mk finished the task!", 
+    "done": "✅ *Mission Accomplished!* All systems go, Yusuf finished the task!", 
     "wait": "⏳ *Hold your horses!* I’m working on it... (No, seriously, I’m not slacking off.", 
     "group": "*• Group Only* This feature is only for groups!", 
     "private": "*• Private Chat* This feature is only for private chats!", 
